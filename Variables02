@@ -1,0 +1,31 @@
+#Variables02
+
+name1="Walter White"
+name2="Anakin Skywalker"
+name3="Master Edwards"
+name4="Micheal Jackson"
+name5="Arnold Schwarzenegger"
+name6="Jermaine Cole"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+print(name6)
+
+town1="Croydon"
+town2="Addiscombe"
+town3="Thorton Heath"
+town4="Mitcham"
+town5="Bromley"
+
+print(town1,"is the best town in England")
+print("")
+print(town2,"is an alright place")
+print("")
+print(town3,"is where my barber lives")
+print("")
+print(town4," is where laylay is")
+print("")
+print(town5,"is the most boring place on Earth, I give it 0.1 stars out of 10.")
