@@ -1,0 +1,10 @@
+Number1=int(input("enter a number:"))
+Number2=int(input("enter another number:"))
+Sum1=Number1+Number2
+Divide1=Number2/Number1
+Multiply1=Number1*Number2
+Subtract1=Number2-Number1
+print(Sum1,"is the sum of",Number1,"and",Number2)
+print(Number2,"divided by",Number1,"is",Divide1)
+print(Number1,"multiplied by",Number2,"is",Multiply1)
+print(Number2,"minus",Number1,"is",Subtract1)
