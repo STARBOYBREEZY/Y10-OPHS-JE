@@ -1,0 +1,61 @@
+NUMBER=int(input("Pick a random number"))	
+OCCUPATION=input("Pick a random job")	
+OCCUPATION2=input("Pick another job")	
+PLACE=input("Pick a place")	
+PERSON=input("Write someone's name")
+PLACE2=input("Pick another place")	
+OCCUPATION3=input("Pick another job")	
+BODYPART=input("Pick a body part")	
+ADJECTIVE=input("Put in an adjective")	
+NOUN=input("Put in a noun")	
+BODYPART2=input("Pick another body part")	
+CELEBRITY=input("Write the name of a celebrity")	
+VERB1=input("Write a verb ending with ing")	
+ADVERB=input("Put in an adverb")	
+VERB2=input("Write a verb ending in s")
+
+print(NUMBER,"years after the end of Rush Hour 2, James Carter is no longer a",OCCUPATION,"but a",OCCUPATION2,"on the streets of ",PLACE,". Lee is now the bodyguard for his friend",PERSON,". Lee is still upset with Carter about an incident in",PLACE2,"when Carter accidentally shot Lee`s girlfriend, Teacher Isabella Molina, in the",BODYPART,".During the World Criminal Court discussions, as",PERSON," addresses the importance to fight the Triad, he announces that he knows the Black of the Triad leadership known as the Shy Shen. Suddenly,",PERSON,"takes a Car in the ",BODYPART2,"disrupting the conference. Lee pursues the assassin and corners him, discovering that the assassin is his brother,",CELEBRITY,". When Lee hesitates to shoot ",CELEBRITY," Carter shows up",Verb1,"towards the two and",ADVERB,VERB2," Lee over, allowing ",CELEBRITY," to escape.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
