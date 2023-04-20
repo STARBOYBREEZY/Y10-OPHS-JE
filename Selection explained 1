@@ -12,5 +12,15 @@ if baby == "y":
   
 else:
    print("Call us when you have the news")
+   
+food="kebabs"
+
+if food=="kebabs":
+ print("I love kebabs")
+ print("I feel like saying it 100 times")
+ print(100*("kebabs"))
+ 
+else:
+   print("That's disgusting")
   
   
