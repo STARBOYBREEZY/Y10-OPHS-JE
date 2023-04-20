@@ -22,5 +22,12 @@ if food=="kebabs":
  
 else:
    print("That's disgusting")
-  
+ 
+age=16
+
+if age >=18:
+  print("Here's a lottery ticket")
+
+else:
+  print("You can't buy a lottery ticket")
   
