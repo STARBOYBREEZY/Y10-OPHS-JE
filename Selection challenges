@@ -1,0 +1,129 @@
+Number1=int(input("Pick a number"))
+Number2=int(input("Pick another number"))
+
+if Number1>Number2:
+  print(Number2,Number1)
+  
+else:
+  print(Number1,Number2)
+  
+  num1=int(input("Enter an number below 20"))
+
+if num1>20:
+  print("Too high")
+  
+else:
+  print("Thank you")
+  
+ num1=int(input("Enter a number between 10 and 20"))
+
+if 10<num1<20:
+  print("Thank you")
+  
+else:
+  print("Incorrect answer")
+  
+
+  
+colour1=str(input("What is your favourite colour?"))
+
+if colour1=="red" or colour1=="RED" or colour1=="Red":
+  print("I like red too")
+  
+else:
+  print("I don't like",colour1,".",colour1,"is for losers")
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
