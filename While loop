@@ -1,0 +1,74 @@
+#CHALLENGE1
+
+number=7
+
+while number != 8:
+  number=number + 1
+  print ("The number is",number)
+
+#CHALLENGE2
+
+answer="N"
+
+while answer != "Y":
+  print("Are we there yet?")
+  answer=input("Please respond Y or N").upper()
+  
+print("Yay! We are there!")
+
+#CHALLENGE3
+
+username=""
+while not username:
+  username=input("Please enter username:")
+
+#CHALLENGE4
+
+number=0
+
+while number<5:
+  number=int(input("Enter number"))
+  
+print("The last number you entered was",number)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
