@@ -1,0 +1,13 @@
+a=10
+
+while a!=0: 
+  print("There are",a,"green bottles hanging on the wall,",a,"green bottles hanging on the wall. And if one green bottle accidentally fall")
+  number=int(input("How many green bottles are hanging on the wall"))
+  while number==a-1:
+   a=a-1
+   print("There'll be",a,"green bottles hanging on the wall")
+   
+
+
+  
+  
