@@ -1,0 +1,36 @@
+#1D arrays
+
+student= ["James","Ali","Salmah","Enzo","Olga"]
+
+print(student)
+print("")
+
+student.insert(0,"Brenda")
+
+print(student)
+print("")
+
+student.append("Kya")
+
+print(student)
+print("")
+
+del student[3]
+
+print (student)
+
+#challenge
+
+cars=[]
+
+a= input("Pick a car")
+
+b= input("Pick another car")
+
+c= input("Pick a car again")
+
+cars.append(a)
+cars.append(b)
+cars.append(c)
+
+print(cars)
