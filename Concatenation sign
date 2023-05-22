@@ -1,0 +1,59 @@
+a=1
+b=2
+
+stringA=str(a) #Casting
+stringB=str(b) #Casting
+
+#Casting in converting one data
+#type to another
+
+c=stringA+stringB
+
+print(c)
+
+#Since you cannot add a string
+#The plus sign is now a
+#Concatenation sign
+#(squashes strings together)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
