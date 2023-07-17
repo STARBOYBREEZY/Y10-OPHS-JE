@@ -1,0 +1,5 @@
+number=int(input("Enter a number below 50"))
+
+for storage in range(50,number,-1):
+  print(storage)
+
