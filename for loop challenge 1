@@ -1,0 +1,3 @@
+name=str(input("Enter your name:"))
+for storage in range(1,4):
+  print(name)
